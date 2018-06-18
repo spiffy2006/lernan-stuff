@@ -1,0 +1,11 @@
+{
+  "name": "cb-recurse",
+  "version": "1.0.0",
+  "description": "This recurses through any data and calls a callback for any single values it finds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Cox <jcox@deseretdigital.com>",
+  "license": "ISC"
+}
