@@ -1,0 +1,14 @@
+{
+  "name": "is-emptyish",
+  "version": "1.0.0",
+  "description": "Checks whether data has nested information that is empty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Cox <jcox@deseretdigital.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cb-recurse": "^1.1.1-0"
+  }
+}
