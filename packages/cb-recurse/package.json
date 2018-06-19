@@ -1,6 +1,10 @@
 {
   "name": "cb-recurse",
+<<<<<<< HEAD
   "version": "1.1.1",
+=======
+  "version": "1.1.6-0",
+>>>>>>> 19c597ff8ba2cd15a04287677d0f99f09260706a
   "description": "This recurses through any data and calls a callback for any single values it finds.",
   "main": "index.js",
   "scripts": {

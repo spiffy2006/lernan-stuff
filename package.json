@@ -4,6 +4,7 @@
   "description": "Testing this whole thing out.",
   "main": "index.js",
   "scripts": {
+    "publish": "lerna publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jacob Cox <jcox@deseretdigital.com>",
